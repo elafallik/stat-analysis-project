@@ -1,12 +1,12 @@
 # stat-analysis-project
-Final project of the course "52311 MODERN STATISTICAL DATA ANALYSIS" - at the Hebrew University of Jerusalem
+Final project for "52311 MODERN STATISTICAL DATA ANALYSIS" cource at the Hebrew University of Jerusalem
 
 
-Uses code for subspace clustering from **
-@inproceedings{you2016scalable,
-  title={Scalable sparse subspace clustering by orthogonal matching pursuit},
-  author={You, Chong and Robinson, Daniel and Vidal, Ren{\'e}},
-  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
-  pages={3918--3927},
-  year={2016}
-}
+Uses code for subspace clustering [1,2]
+
+
+## References 
+[1] You, C., Robinson, D., & Vidal, R. (2016). Scalable sparse subspace clustering by orthogonal matching pursuit. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 3918-3927).
+
+[2] You, C., Li, C. G., Robinson, D. P., & Vidal, R. (2016). Oracle based active set algorithm for scalable elastic net subspace clustering. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 3928-3937).
+

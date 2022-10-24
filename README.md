@@ -1,8 +1,8 @@
 # stat-analysis-project
-Final project for "52311 MODERN STATISTICAL DATA ANALYSIS" cource at the Hebrew University of Jerusalem
+Final project for "52311 MODERN STATISTICAL DATA ANALYSIS" course at the Hebrew University of Jerusalem
 
 
-Uses code for subspace clustering [1,2]
+Uses code for subspace clustering [1,2].
 
 
 ## References 
